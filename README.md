@@ -6,10 +6,11 @@ The path solving algorithm will find the shortest path from the start to the goa
 ### Running the program:
 - Install g++
 - Run 'make' to compile all the objects and executable
-- Run './solver <input-file.env >output-file.out' to execute the program.
+- Run './solver <input.env >output.out' to execute the program.
 - Note the < is required before the input and > is required before the output.
-- input-file.env can be any custom map.
-- output-file.out is the name of the output the algorithm prints the results into.
+- input.env can be any custom map.
+- output.out is the name of the output the algorithm prints the results into.
+- Output files are placed in the same directory the the Run command is run in.
 
 ### Creating custom maps:
 - Check the Maps directories for examples of map layouts so you can create your own.
