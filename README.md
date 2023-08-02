@@ -1,4 +1,5 @@
 ## Second Year University Assignment
+By Quoc Tran (s3827826)
 
 The path solving algorithm will find the shortest path from the start to the goal and draw the path. If no path is possible, it will return the map unchanged.
 
