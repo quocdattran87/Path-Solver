@@ -1,4 +1,3 @@
-# Path Solver
 ## Second Year University Assignment
 
 The path solving algorithm will find the shortest path from the start to the goal and draw the path. If no path is possible, it will return the map unchanged.
